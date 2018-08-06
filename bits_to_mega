@@ -1,0 +1,1 @@
+$(bc <<< "scale =4; $(stat -c %s ./Facial_Mapping/shape_predictor_68_face_landmarks.dat) / 2^20" )
