@@ -8,10 +8,6 @@ Please read [CONTRIBUTING.md] for details on our code of conduct, and the proces
 -->
 ## Authors
 
-* **Nepo26** - *Initial work* - [Caipora]
+* **Nepo26** - *Initial work* - [Onibas-Grant]
 
-See also the list of [contributors](https://github.com/Nepo26/Caipora/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+See also the list of [contributors](https://github.com/Nepo26/Onibas-Grant/contributors) who participated in this project.
