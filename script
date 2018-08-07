@@ -1,0 +1,29 @@
+#!/bin/bash
+
+LOCAL=$(pwd)
+
+ls | egrep "*.zip" > original
+
+
+
+while [ $( wc -l < original) -gt 1 ]; do
+  
+  cd $LOCAL
+  ARQ=$(tail -n 1 original) 
+  ARQ2=$(echo ${ARQ//.zip} )
+  mkdir -p $ARQ2
+  cp $ARQ $ARQ2
+  cd $ARQ2
+  unzip -u $ARQ
+	cd $LOCAL
+  head -n -1 original > temporario	
+  cat temporario > original
+  echo "\n . \n"
+  
+done
+
+cd $LOCAL
+rm original
+rm temporario
+
+echo "Done" 
