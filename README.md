@@ -1,7 +1,7 @@
 <!-- Comment -->
 # Onibas-Grant
 
-A place to store most part of my test codes related to myIEC(Introducao a Engenharia de Computacao)'s project. Which consisted of the attempt to intercommunicate a raspberry pi, a camera, a telegram bot, and a servo motor (to open a lock).
+A place to store most part of my test codes related to my IEC(Introducao a Engenharia de Computacao)'s project. Which consisted of the attempt to intercommunicate a raspberry pi, a camera, a telegram bot, and a servo motor (to open a lock).
 
 
 ## Original Idea
