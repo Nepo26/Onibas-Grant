@@ -1,12 +1,10 @@
 <!-- Comment -->
-![Magnolia]
+<!--![Magnolia]-->
 ==========
 
 [![GitHub release](https://img.shields.io/github/license/Nepo26/Magnolia.svg)][license]
 
 [license]: https://github.com/Nepo26/Magnolia/blob/master/LICENSE
-
-# Magnolia
 
 A place to store most part of my test codes related to my IEC(Introducao a Engenharia de Computacao)'s project. Which consisted of the attempt to intercommunicate a raspberry pi, a camera, a telegram bot, and a servo motor (to open a lock).
 
