@@ -3,7 +3,7 @@
 Magnolia
 ==========
 
-[![GitHub release](https://img.shields.io/github/license/Nepo26/Magnolia.svg)][license]
+[![GitHub release](https://img.shields.io/github/license/Nepo26/Magnolia.svg?color=%2381c186)][license]
 
 [license]: https://github.com/Nepo26/Magnolia/blob/master/LICENSE
 
